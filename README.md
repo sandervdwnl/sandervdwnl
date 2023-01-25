@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandervdwnl
-- 👀 I’m interested in PHP-related development.
-- 🌱 I’m currently learning Laravel and WordPress development.
+- 👀 I’m interested in PHP built projects.
+- 🌱 I’m currently learning and working on WordPress plugin development.
 - 💞️ I’m looking to collaborate on: PHP related projects
 - 📫 How to reach me: sander@windt.dev
 
